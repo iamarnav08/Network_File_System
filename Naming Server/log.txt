@@ -1,0 +1,2016 @@
+Client :
+Time Stamp: 2024-12-03 10:22:58
+IP Address: 10.42.0.1
+Port Number: 35776
+Request Type: WRITE_FILE
+Response Code: FILE_FOUND
+Cache Miss
+
+Storage Server :
+Time Stamp: 2024-12-03 10:26:12
+IP Address: 10.42.0.163
+Port Number: 41980
+Request Type: STORAGE_SERVER_CONNECTION
+Response Code: INVALID
+Cache Miss
+
+Storage Server :
+Time Stamp: 2024-12-03 10:26:26
+IP Address: 10.42.0.163
+Port Number: 49994
+Request Type: STORAGE_SERVER_CONNECTION
+Response Code: INVALID
+Cache Miss
+
+Client :
+Time Stamp: 2024-12-03 10:27:00
+IP Address: 10.42.0.1
+Port Number: 40210
+Request Type: WRITE_FILE
+Response Code: FILE_FOUND
+Cache Miss
+
+Client :
+Time Stamp: 2024-12-03 10:27:25
+IP Address: 10.42.0.1
+Port Number: 45886
+Request Type: LIST_PATHS
+Response Code: INVALID
+Cache Miss
+
+Storage Server :
+Time Stamp: 2024-12-03 10:27:36
+IP Address: 10.42.0.163
+Port Number: 56410
+Request Type: STORAGE_SERVER_CONNECTION
+Response Code: INVALID
+Cache Miss
+
+Client :
+Time Stamp: 2024-12-03 10:28:10
+IP Address: 10.42.0.1
+Port Number: 33978
+Request Type: LIST_PATHS
+Response Code: INVALID
+Cache Miss
+
+Client :
+Time Stamp: 2024-12-03 10:28:19
+IP Address: 10.42.0.1
+Port Number: 44746
+Request Type: WRITE_FILE
+Response Code: FILE_FOUND
+Cache Miss
+
+Storage Server :
+Time Stamp: 2024-12-03 10:29:28
+IP Address: 10.42.0.163
+Port Number: 35918
+Request Type: INACTIVE_STORAGE_SERVER_ACTIVATED
+Response Code: INVALID
+Cache Miss
+
+Storage Server :
+Time Stamp: 2024-12-03 10:31:07
+IP Address: 10.42.0.163
+Port Number: 35062
+Request Type: STORAGE_SERVER_CONNECTION
+Response Code: INVALID
+Cache Miss
+
+Client :
+Time Stamp: 2024-12-03 10:31:14
+IP Address: 10.42.0.1
+Port Number: 49960
+Request Type: LIST_PATHS
+Response Code: INVALID
+Cache Miss
+
+Client :
+Time Stamp: 2024-12-03 10:31:20
+IP Address: 10.42.0.1
+Port Number: 49798
+Request Type: WRITE_FILE
+Response Code: FILE_FOUND
+Cache Miss
+
+Client :
+Time Stamp: 2024-12-03 10:32:29
+IP Address: 10.42.0.1
+Port Number: 36692
+Request Type: LIST_PATHS
+Response Code: INVALID
+Cache Miss
+
+Client :
+Time Stamp: 2024-12-03 10:32:37
+IP Address: 10.42.0.1
+Port Number: 36698
+Request Type: WRITE_FILE
+Response Code: FILE_FOUND
+Cache Hit
+
+Client :
+Time Stamp: 2024-12-03 10:32:57
+IP Address: 10.42.0.1
+Port Number: 51368
+Request Type: WRITE_FILE
+Response Code: FILE_FOUND
+Cache Hit
+
+Client :
+Time Stamp: 2024-12-03 10:33:01
+IP Address: 10.42.0.1
+Port Number: 57932
+Request Type: READ_FILE
+Response Code: FILE_FOUND
+Cache Miss
+
+Client :
+Time Stamp: 2024-12-03 10:34:15
+IP Address: 10.42.0.1
+Port Number: 44084
+Request Type: WRITE_FILE
+Response Code: FILE_NOT_FOUND
+Cache Miss
+
+Client :
+Time Stamp: 2024-12-03 10:34:22
+IP Address: 10.42.0.1
+Port Number: 33194
+Request Type: LIST_PATHS
+Response Code: INVALID
+Cache Miss
+
+Client :
+Time Stamp: 2024-12-03 10:34:34
+IP Address: 10.42.0.1
+Port Number: 43548
+Request Type: LIST_PATHS
+Response Code: INVALID
+Cache Miss
+
+Storage Server :
+Time Stamp: 2024-12-03 10:34:58
+IP Address: 10.42.0.163
+Port Number: 56588
+Request Type: STORAGE_SERVER_CONNECTION
+Response Code: INVALID
+Cache Miss
+
+Client :
+Time Stamp: 2024-12-03 10:35:03
+IP Address: 10.42.0.1
+Port Number: 47010
+Request Type: LIST_PATHS
+Response Code: INVALID
+Cache Miss
+
+Client :
+Time Stamp: 2024-12-03 10:35:08
+IP Address: 10.42.0.1
+Port Number: 47024
+Request Type: WRITE_FILE
+Response Code: FILE_FOUND
+Cache Miss
+
+Client :
+Time Stamp: 2024-12-03 10:35:17
+IP Address: 10.42.0.1
+Port Number: 42404
+Request Type: WRITE_FILE
+Response Code: FILE_FOUND
+Cache Hit
+
+Client :
+Time Stamp: 2024-12-03 10:35:57
+IP Address: 10.42.0.1
+Port Number: 35040
+Request Type: WRITE_FILE
+Response Code: FILE_FOUND
+Cache Hit
+
+Client :
+Time Stamp: 2024-12-03 10:36:00
+IP Address: 10.42.0.1
+Port Number: 39102
+Request Type: WRITE_FILE
+Response Code: FILE_FOUND
+Cache Hit
+
+Client :
+Time Stamp: 2024-12-03 10:37:25
+IP Address: 10.42.0.1
+Port Number: 51000
+Request Type: READ_FILE
+Response Code: FILE_FOUND
+Cache Miss
+
+Storage Server :
+Time Stamp: 2024-12-03 10:42:58
+IP Address: 10.42.0.163
+Port Number: 35996
+Request Type: STORAGE_SERVER_CONNECTION
+Response Code: INVALID
+Cache Miss
+
+Client :
+Time Stamp: 2024-12-03 10:43:02
+IP Address: 10.42.0.1
+Port Number: 49180
+Request Type: LIST_PATHS
+Response Code: INVALID
+Cache Miss
+
+Client :
+Time Stamp: 2024-12-03 10:43:28
+IP Address: 10.42.0.1
+Port Number: 54012
+Request Type: WRITE_FILE
+Response Code: FILE_FOUND
+Cache Miss
+
+Client :
+Time Stamp: 2024-12-03 10:43:29
+IP Address: 10.42.0.1
+Port Number: 54022
+Request Type: WRITE_FILE
+Response Code: FILE_FOUND
+Cache Hit
+
+Storage Server :
+Time Stamp: 2024-12-03 10:44:35
+IP Address: 10.42.0.163
+Port Number: 44822
+Request Type: STORAGE_SERVER_CONNECTION
+Response Code: INVALID
+Cache Miss
+
+Client :
+Time Stamp: 2024-12-03 10:44:40
+IP Address: 10.42.0.1
+Port Number: 53526
+Request Type: WRITE_FILE
+Response Code: FILE_FOUND
+Cache Miss
+
+Client :
+Time Stamp: 2024-12-03 10:44:49
+IP Address: 10.42.0.1
+Port Number: 53530
+Request Type: WRITE_FILE
+Response Code: FILE_FOUND
+Cache Hit
+
+Storage Server :
+Time Stamp: 2024-12-03 10:45:26
+IP Address: 10.42.0.163
+Port Number: 40132
+Request Type: STORAGE_SERVER_CONNECTION
+Response Code: INVALID
+Cache Miss
+
+Client :
+Time Stamp: 2024-12-03 10:45:32
+IP Address: 10.42.0.1
+Port Number: 50866
+Request Type: WRITE_FILE
+Response Code: FILE_FOUND
+Cache Miss
+
+Storage Server :
+Time Stamp: 2024-12-03 10:46:50
+IP Address: 10.42.0.163
+Port Number: 53530
+Request Type: INACTIVE_STORAGE_SERVER_ACTIVATED
+Response Code: INVALID
+Cache Miss
+
+Client :
+Time Stamp: 2024-12-03 10:46:55
+IP Address: 10.42.0.1
+Port Number: 47474
+Request Type: LIST_PATHS
+Response Code: INVALID
+Cache Miss
+
+Client :
+Time Stamp: 2024-12-03 10:47:02
+IP Address: 10.42.0.1
+Port Number: 35478
+Request Type: WRITE_FILE
+Response Code: FILE_FOUND
+Cache Miss
+
+Client :
+Time Stamp: 2024-12-03 10:47:03
+IP Address: 10.42.0.1
+Port Number: 35488
+Request Type: WRITE_FILE
+Response Code: FILE_FOUND
+Cache Hit
+
+Storage Server :
+Time Stamp: 2024-12-03 10:50:36
+IP Address: 10.42.0.163
+Port Number: 55600
+Request Type: INACTIVE_STORAGE_SERVER_ACTIVATED
+Response Code: INVALID
+Cache Miss
+
+Client :
+Time Stamp: 2024-12-03 10:50:52
+IP Address: 10.42.0.1
+Port Number: 51310
+Request Type: WRITE_FILE
+Response Code: FILE_FOUND
+Cache Miss
+
+Client :
+Time Stamp: 2024-12-03 10:50:53
+IP Address: 10.42.0.1
+Port Number: 51324
+Request Type: WRITE_FILE
+Response Code: FILE_FOUND
+Cache Hit
+
+Client :
+Time Stamp: 2024-12-03 10:52:08
+IP Address: 10.42.0.1
+Port Number: 37486
+Request Type: WRITE_FILE
+Response Code: FILE_FOUND
+Cache Hit
+
+Client :
+Time Stamp: 2024-12-03 10:52:09
+IP Address: 10.42.0.1
+Port Number: 40942
+Request Type: WRITE_FILE
+Response Code: FILE_FOUND
+Cache Hit
+
+Storage Server :
+Time Stamp: 2024-12-03 11:53:25
+IP Address: 192.168.35.25
+Port Number: 55892
+Request Type: STORAGE_SERVER_CONNECTION
+Response Code: INVALID
+Cache Miss
+
+Client :
+Time Stamp: 2024-12-03 11:57:43
+IP Address: 192.168.35.228
+Port Number: 60146
+Request Type: LIST_PATHS
+Response Code: INVALID
+Cache Miss
+
+Client :
+Time Stamp: 2024-12-03 11:58:49
+IP Address: 192.168.35.228
+Port Number: 49724
+Request Type: WRITE_FILE
+Response Code: FILE_FOUND
+Cache Miss
+
+Client :
+Time Stamp: 2024-12-03 11:58:51
+IP Address: 192.168.35.228
+Port Number: 49726
+Request Type: WRITE_FILE
+Response Code: FILE_FOUND
+Cache Hit
+
+Client :
+Time Stamp: 2024-12-03 11:59:03
+IP Address: 192.168.35.228
+Port Number: 60868
+Request Type: WRITE_FILE
+Response Code: FILE_FOUND
+Cache Hit
+
+Client :
+Time Stamp: 2024-12-03 12:00:36
+IP Address: 192.168.35.228
+Port Number: 33322
+Request Type: WRITE_FILE
+Response Code: FILE_FOUND
+Cache Hit
+
+Client :
+Time Stamp: 2024-12-03 12:00:38
+IP Address: 192.168.35.228
+Port Number: 33336
+Request Type: WRITE_FILE
+Response Code: FILE_FOUND
+Cache Hit
+
+Storage Server :
+Time Stamp: 2024-12-03 12:05:40
+IP Address: 192.168.35.25
+Port Number: 35530
+Request Type: STORAGE_SERVER_CONNECTION
+Response Code: INVALID
+Cache Miss
+
+Storage Server :
+Time Stamp: 2024-12-03 12:05:52
+IP Address: 192.168.35.25
+Port Number: 59560
+Request Type: INACTIVE_STORAGE_SERVER_ACTIVATED
+Response Code: INVALID
+Cache Miss
+
+Client :
+Time Stamp: 2024-12-03 12:05:55
+IP Address: 192.168.35.228
+Port Number: 41054
+Request Type: LIST_PATHS
+Response Code: INVALID
+Cache Miss
+
+Storage Server :
+Time Stamp: 2024-12-03 12:06:08
+IP Address: 192.168.35.25
+Port Number: 57394
+Request Type: STORAGE_SERVER_CONNECTION
+Response Code: INVALID
+Cache Miss
+
+Storage Server :
+Time Stamp: 2024-12-03 12:06:16
+IP Address: 192.168.35.25
+Port Number: 33244
+Request Type: STORAGE_SERVER_CONNECTION
+Response Code: INVALID
+Cache Miss
+
+Client :
+Time Stamp: 2024-12-03 12:06:22
+IP Address: 192.168.35.228
+Port Number: 49846
+Request Type: LIST_PATHS
+Response Code: INVALID
+Cache Miss
+
+Client :
+Time Stamp: 2024-12-03 12:06:44
+IP Address: 192.168.35.228
+Port Number: 34336
+Request Type: WRITE_FILE
+Response Code: FILE_FOUND
+Cache Miss
+
+Storage Server :
+Time Stamp: 2024-12-03 12:07:59
+IP Address: 192.168.35.25
+Port Number: 35686
+Request Type: STORAGE_SERVER_CONNECTION
+Response Code: INVALID
+Cache Miss
+
+Storage Server :
+Time Stamp: 2024-12-03 12:08:07
+IP Address: 192.168.35.25
+Port Number: 36928
+Request Type: STORAGE_SERVER_CONNECTION
+Response Code: INVALID
+Cache Miss
+
+Storage Server :
+Time Stamp: 2024-12-03 12:08:13
+IP Address: 192.168.35.25
+Port Number: 53578
+Request Type: STORAGE_SERVER_CONNECTION
+Response Code: INVALID
+Cache Miss
+
+Storage Server :
+Time Stamp: 2024-12-03 12:08:19
+IP Address: 192.168.35.25
+Port Number: 53592
+Request Type: STORAGE_SERVER_CONNECTION
+Response Code: INVALID
+Cache Miss
+
+Client :
+Time Stamp: 2024-12-03 12:08:22
+IP Address: 192.168.35.228
+Port Number: 45950
+Request Type: WRITE_FILE
+Response Code: FILE_FOUND
+Cache Miss
+
+Storage Server :
+Time Stamp: 2024-12-03 12:10:02
+IP Address: 192.168.35.25
+Port Number: 50514
+Request Type: STORAGE_SERVER_CONNECTION
+Response Code: INVALID
+Cache Miss
+
+Client :
+Time Stamp: 2024-12-03 12:10:05
+IP Address: 192.168.35.228
+Port Number: 59502
+Request Type: WRITE_FILE
+Response Code: FILE_FOUND
+Cache Miss
+
+Client :
+Time Stamp: 2024-12-03 12:10:41
+IP Address: 192.168.35.228
+Port Number: 45036
+Request Type: WRITE_FILE
+Response Code: FILE_FOUND
+Cache Hit
+
+Storage Server :
+Time Stamp: 2024-12-03 12:13:27
+IP Address: 192.168.35.25
+Port Number: 37862
+Request Type: STORAGE_SERVER_CONNECTION
+Response Code: INVALID
+Cache Miss
+
+Storage Server :
+Time Stamp: 2024-12-03 12:13:47
+IP Address: 192.168.35.25
+Port Number: 43510
+Request Type: STORAGE_SERVER_CONNECTION
+Response Code: INVALID
+Cache Miss
+
+Storage Server :
+Time Stamp: 2024-12-03 12:13:57
+IP Address: 192.168.35.25
+Port Number: 55796
+Request Type: STORAGE_SERVER_CONNECTION
+Response Code: INVALID
+Cache Miss
+
+Storage Server :
+Time Stamp: 2024-12-03 12:14:03
+IP Address: 192.168.35.25
+Port Number: 60898
+Request Type: STORAGE_SERVER_CONNECTION
+Response Code: INVALID
+Cache Miss
+
+Storage Server :
+Time Stamp: 2024-12-03 12:14:10
+IP Address: 192.168.35.25
+Port Number: 50862
+Request Type: STORAGE_SERVER_CONNECTION
+Response Code: INVALID
+Cache Miss
+
+Storage Server :
+Time Stamp: 2024-12-03 12:14:19
+IP Address: 192.168.35.25
+Port Number: 50872
+Request Type: STORAGE_SERVER_CONNECTION
+Response Code: INVALID
+Cache Miss
+
+Storage Server :
+Time Stamp: 2024-12-03 12:14:29
+IP Address: 192.168.35.25
+Port Number: 38822
+Request Type: STORAGE_SERVER_CONNECTION
+Response Code: INVALID
+Cache Miss
+
+Storage Server :
+Time Stamp: 2024-12-03 12:14:46
+IP Address: 192.168.35.25
+Port Number: 40506
+Request Type: STORAGE_SERVER_CONNECTION
+Response Code: INVALID
+Cache Miss
+
+Storage Server :
+Time Stamp: 2024-12-03 12:14:56
+IP Address: 192.168.35.25
+Port Number: 36266
+Request Type: STORAGE_SERVER_CONNECTION
+Response Code: INVALID
+Cache Miss
+
+Client :
+Time Stamp: 2024-12-03 12:15:03
+IP Address: 192.168.35.228
+Port Number: 37064
+Request Type: WRITE_FILE
+Response Code: FILE_FOUND
+Cache Miss
+
+Client :
+Time Stamp: 2024-12-03 12:15:05
+IP Address: 192.168.35.228
+Port Number: 39358
+Request Type: WRITE_FILE
+Response Code: FILE_FOUND
+Cache Hit
+
+Storage Server :
+Time Stamp: 2024-12-03 12:18:47
+IP Address: 192.168.35.25
+Port Number: 45746
+Request Type: STORAGE_SERVER_CONNECTION
+Response Code: INVALID
+Cache Miss
+
+Storage Server :
+Time Stamp: 2024-12-03 12:19:22
+IP Address: 192.168.35.25
+Port Number: 49730
+Request Type: STORAGE_SERVER_CONNECTION
+Response Code: INVALID
+Cache Miss
+
+Storage Server :
+Time Stamp: 2024-12-03 12:19:29
+IP Address: 192.168.35.25
+Port Number: 49736
+Request Type: STORAGE_SERVER_CONNECTION
+Response Code: INVALID
+Cache Miss
+
+Client :
+Time Stamp: 2024-12-03 12:19:38
+IP Address: 192.168.35.228
+Port Number: 34586
+Request Type: LIST_PATHS
+Response Code: INVALID
+Cache Miss
+
+Client :
+Time Stamp: 2024-12-03 12:19:48
+IP Address: 192.168.35.228
+Port Number: 58316
+Request Type: WRITE_FILE
+Response Code: FILE_FOUND
+Cache Miss
+
+Client :
+Time Stamp: 2024-12-03 12:19:49
+IP Address: 192.168.35.228
+Port Number: 58326
+Request Type: WRITE_FILE
+Response Code: FILE_FOUND
+Cache Hit
+
+Client :
+Time Stamp: 2024-12-03 12:20:31
+IP Address: 192.168.35.228
+Port Number: 37458
+Request Type: WRITE_FILE
+Response Code: FILE_FOUND
+Cache Hit
+
+Client :
+Time Stamp: 2024-12-03 12:20:42
+IP Address: 192.168.35.228
+Port Number: 56436
+Request Type: WRITE_FILE
+Response Code: FILE_FOUND
+Cache Hit
+
+Storage Server :
+Time Stamp: 2024-12-03 12:22:08
+IP Address: 192.168.35.25
+Port Number: 36860
+Request Type: STORAGE_SERVER_CONNECTION
+Response Code: INVALID
+Cache Miss
+
+Client :
+Time Stamp: 2024-12-03 12:22:10
+IP Address: 192.168.35.228
+Port Number: 32954
+Request Type: LIST_PATHS
+Response Code: INVALID
+Cache Miss
+
+Client :
+Time Stamp: 2024-12-03 12:22:20
+IP Address: 192.168.35.228
+Port Number: 54666
+Request Type: WRITE_FILE
+Response Code: FILE_FOUND
+Cache Miss
+
+Client :
+Time Stamp: 2024-12-03 12:22:24
+IP Address: 192.168.35.228
+Port Number: 54678
+Request Type: WRITE_FILE
+Response Code: FILE_FOUND
+Cache Hit
+
+Client :
+Time Stamp: 2024-12-03 12:23:06
+IP Address: 192.168.35.228
+Port Number: 44340
+Request Type: WRITE_FILE
+Response Code: FILE_FOUND
+Cache Hit
+
+Client :
+Time Stamp: 2024-12-03 12:24:15
+IP Address: 192.168.35.228
+Port Number: 38146
+Request Type: READ_FILE
+Response Code: FILE_NOT_FOUND
+Cache Miss
+
+Storage Server :
+Time Stamp: 2024-12-03 12:24:22
+IP Address: 192.168.35.25
+Port Number: 33248
+Request Type: STORAGE_SERVER_CONNECTION
+Response Code: INVALID
+Cache Miss
+
+Storage Server :
+Time Stamp: 2024-12-03 12:24:29
+IP Address: 192.168.35.25
+Port Number: 33254
+Request Type: STORAGE_SERVER_CONNECTION
+Response Code: INVALID
+Cache Miss
+
+Storage Server :
+Time Stamp: 2024-12-03 12:27:23
+IP Address: 192.168.35.25
+Port Number: 40954
+Request Type: STORAGE_SERVER_CONNECTION
+Response Code: INVALID
+Cache Miss
+
+Storage Server :
+Time Stamp: 2024-12-03 12:27:28
+IP Address: 192.168.35.25
+Port Number: 40966
+Request Type: STORAGE_SERVER_CONNECTION
+Response Code: INVALID
+Cache Miss
+
+Client :
+Time Stamp: 2024-12-03 12:27:46
+IP Address: 192.168.35.228
+Port Number: 55256
+Request Type: READ_FILE
+Response Code: FILE_FOUND
+Cache Miss
+
+Storage Server :
+Time Stamp: 2024-12-03 12:31:54
+IP Address: 192.168.35.25
+Port Number: 37398
+Request Type: STORAGE_SERVER_CONNECTION
+Response Code: INVALID
+Cache Miss
+
+Storage Server :
+Time Stamp: 2024-12-03 12:32:01
+IP Address: 192.168.35.25
+Port Number: 51316
+Request Type: INACTIVE_STORAGE_SERVER_ACTIVATED
+Response Code: INVALID
+Cache Miss
+
+Storage Server :
+Time Stamp: 2024-12-03 12:41:55
+IP Address: 192.168.35.62
+Port Number: 47344
+Request Type: STORAGE_SERVER_CONNECTION
+Response Code: INVALID
+Cache Miss
+
+Storage Server :
+Time Stamp: 2024-12-03 12:42:19
+IP Address: 192.168.35.25
+Port Number: 47190
+Request Type: STORAGE_SERVER_CONNECTION
+Response Code: INVALID
+Cache Miss
+
+Storage Server :
+Time Stamp: 2024-12-03 12:45:32
+IP Address: 192.168.35.62
+Port Number: 54918
+Request Type: STORAGE_SERVER_CONNECTION
+Response Code: INVALID
+Cache Miss
+
+Storage Server :
+Time Stamp: 2024-12-03 12:47:29
+IP Address: 192.168.35.62
+Port Number: 42874
+Request Type: STORAGE_SERVER_CONNECTION
+Response Code: INVALID
+Cache Miss
+
+Storage Server :
+Time Stamp: 2024-12-03 12:55:05
+IP Address: 192.168.35.62
+Port Number: 49082
+Request Type: STORAGE_SERVER_CONNECTION
+Response Code: INVALID
+Cache Miss
+
+Storage Server :
+Time Stamp: 2024-12-03 12:55:44
+IP Address: 192.168.35.62
+Port Number: 38646
+Request Type: STORAGE_SERVER_CONNECTION
+Response Code: INVALID
+Cache Miss
+
+Storage Server :
+Time Stamp: 2024-12-03 12:55:57
+IP Address: 192.168.35.62
+Port Number: 45240
+Request Type: STORAGE_SERVER_CONNECTION
+Response Code: INVALID
+Cache Miss
+
+Storage Server :
+Time Stamp: 2024-12-03 12:57:27
+IP Address: 192.168.35.62
+Port Number: 38344
+Request Type: INACTIVE_STORAGE_SERVER_ACTIVATED
+Response Code: INVALID
+Cache Miss
+
+Storage Server :
+Time Stamp: 2024-12-03 12:57:58
+IP Address: 192.168.35.62
+Port Number: 45080
+Request Type: INACTIVE_STORAGE_SERVER_ACTIVATED
+Response Code: INVALID
+Cache Miss
+
+Storage Server :
+Time Stamp: 2024-12-04 09:28:25
+IP Address: 192.168.39.62
+Port Number: 34346
+Request Type: STORAGE_SERVER_CONNECTION
+Response Code: INVALID
+Cache Miss
+
+Storage Server :
+Time Stamp: 2024-12-04 09:28:58
+IP Address: 192.168.39.25
+Port Number: 32902
+Request Type: STORAGE_SERVER_CONNECTION
+Response Code: INVALID
+Cache Miss
+
+Storage Server :
+Time Stamp: 2024-12-04 09:29:15
+IP Address: 192.168.39.62
+Port Number: 50048
+Request Type: STORAGE_SERVER_CONNECTION
+Response Code: INVALID
+Cache Miss
+
+Client :
+Time Stamp: 2024-12-04 09:29:44
+IP Address: 192.168.39.62
+Port Number: 33616
+Request Type: LIST_PATHS
+Response Code: INVALID
+Cache Miss
+
+Client :
+Time Stamp: 2024-12-04 09:29:52
+IP Address: 192.168.39.228
+Port Number: 37390
+Request Type: LIST_PATHS
+Response Code: INVALID
+Cache Miss
+
+Client :
+Time Stamp: 2024-12-04 09:29:56
+IP Address: 192.168.39.25
+Port Number: 34492
+Request Type: LIST_PATHS
+Response Code: INVALID
+Cache Miss
+
+Client :
+Time Stamp: 2024-12-04 09:30:03
+IP Address: 192.168.39.228
+Port Number: 35410
+Request Type: WRITE_FILE
+Response Code: FILE_FOUND
+Cache Miss
+
+Client :
+Time Stamp: 2024-12-04 09:30:38
+IP Address: 192.168.39.228
+Port Number: 38770
+Request Type: READ_FILE
+Response Code: FILE_FOUND
+Cache Miss
+
+Client :
+Time Stamp: 2024-12-04 09:31:23
+IP Address: 192.168.39.62
+Port Number: 57644
+Request Type: LIST_PATHS
+Response Code: INVALID
+Cache Miss
+
+Client :
+Time Stamp: 2024-12-04 09:32:01
+IP Address: 192.168.39.62
+Port Number: 33166
+Request Type: CREATE_DIR
+Response Code: PATH_FOUND
+Cache Miss
+
+Storage Server :
+Time Stamp: 2024-12-04 09:32:15
+IP Address: 192.168.39.25
+Port Number: 57054
+Request Type: INACTIVE_STORAGE_SERVER_ACTIVATED
+Response Code: INVALID
+Cache Miss
+
+Client :
+Time Stamp: 2024-12-04 09:32:21
+IP Address: 192.168.39.62
+Port Number: 56900
+Request Type: LIST_PATHS
+Response Code: INVALID
+Cache Miss
+
+Client :
+Time Stamp: 2024-12-04 09:32:43
+IP Address: 192.168.39.62
+Port Number: 49972
+Request Type: CREATE_FILE
+Response Code: PATH_FOUND
+Cache Miss
+
+Client :
+Time Stamp: 2024-12-04 09:34:16
+IP Address: 192.168.39.228
+Port Number: 40684
+Request Type: WRITE_FILE
+Response Code: FILE_FOUND
+Cache Hit
+
+Client :
+Time Stamp: 2024-12-04 09:35:16
+IP Address: 192.168.39.228
+Port Number: 46504
+Request Type: READ_FILE
+Response Code: FILE_FOUND
+Cache Hit
+
+Storage Server :
+Time Stamp: 2024-12-04 09:35:55
+IP Address: 192.168.39.62
+Port Number: 52214
+Request Type: STORAGE_SERVER_CONNECTION
+Response Code: INVALID
+Cache Miss
+
+Client :
+Time Stamp: 2024-12-04 09:36:04
+IP Address: 192.168.39.62
+Port Number: 52222
+Request Type: LIST_PATHS
+Response Code: INVALID
+Cache Miss
+
+Client :
+Time Stamp: 2024-12-04 09:36:09
+IP Address: 192.168.39.228
+Port Number: 50620
+Request Type: WRITE_FILE
+Response Code: FILE_FOUND
+Cache Miss
+
+Storage Server :
+Time Stamp: 2024-12-04 09:36:22
+IP Address: 192.168.39.25
+Port Number: 34506
+Request Type: STORAGE_SERVER_CONNECTION
+Response Code: INVALID
+Cache Miss
+
+Client :
+Time Stamp: 2024-12-04 09:36:30
+IP Address: 192.168.39.62
+Port Number: 43954
+Request Type: LIST_PATHS
+Response Code: INVALID
+Cache Miss
+
+Client :
+Time Stamp: 2024-12-04 09:36:57
+IP Address: 192.168.39.62
+Port Number: 48856
+Request Type: STREAM_AUDIO
+Response Code: FILE_FOUND
+Cache Miss
+
+Client :
+Time Stamp: 2024-12-04 09:37:08
+IP Address: 192.168.39.25
+Port Number: 60548
+Request Type: LIST_PATHS
+Response Code: INVALID
+Cache Miss
+
+Client :
+Time Stamp: 2024-12-04 09:37:58
+IP Address: 192.168.39.25
+Port Number: 55852
+Request Type: STREAM_AUDIO
+Response Code: FILE_FOUND
+Cache Miss
+
+Client :
+Time Stamp: 2024-12-04 09:38:12
+IP Address: 192.168.39.62
+Port Number: 53040
+Request Type: STREAM_AUDIO
+Response Code: FILE_FOUND
+Cache Hit
+
+Client :
+Time Stamp: 2024-12-04 09:38:50
+IP Address: 192.168.39.25
+Port Number: 50650
+Request Type: LIST_PATHS
+Response Code: INVALID
+Cache Miss
+
+Client :
+Time Stamp: 2024-12-04 09:39:05
+IP Address: 192.168.39.62
+Port Number: 50580
+Request Type: LIST_PATHS
+Response Code: INVALID
+Cache Miss
+
+Client :
+Time Stamp: 2024-12-04 09:39:12
+IP Address: 192.168.39.25
+Port Number: 56246
+Request Type: STREAM_AUDIO
+Response Code: FILE_FOUND
+Cache Hit
+
+Client :
+Time Stamp: 2024-12-04 09:39:16
+IP Address: 192.168.39.62
+Port Number: 53760
+Request Type: STREAM_AUDIO
+Response Code: FILE_FOUND
+Cache Hit
+
+Client :
+Time Stamp: 2024-12-04 09:39:32
+IP Address: 192.168.39.228
+Port Number: 34698
+Request Type: WRITE_FILE
+Response Code: FILE_FOUND
+Cache Miss
+
+Client :
+Time Stamp: 2024-12-04 09:40:03
+IP Address: 192.168.39.228
+Port Number: 57476
+Request Type: WRITE_FILE
+Response Code: FILE_FOUND
+Cache Hit
+
+Client :
+Time Stamp: 2024-12-04 09:40:17
+IP Address: 192.168.39.62
+Port Number: 41836
+Request Type: LIST_PATHS
+Response Code: INVALID
+Cache Miss
+
+Client :
+Time Stamp: 2024-12-04 09:40:41
+IP Address: 192.168.39.228
+Port Number: 53940
+Request Type: WRITE_FILE
+Response Code: FILE_FOUND
+Cache Miss
+
+Client :
+Time Stamp: 2024-12-04 09:46:12
+IP Address: 192.168.39.62
+Port Number: 55672
+Request Type: LIST_PATHS
+Response Code: INVALID
+Cache Miss
+
+Storage Server :
+Time Stamp: 2024-12-04 09:47:59
+IP Address: 192.168.39.62
+Port Number: 60160
+Request Type: STORAGE_SERVER_CONNECTION
+Response Code: INVALID
+Cache Miss
+
+Storage Server :
+Time Stamp: 2024-12-04 09:48:08
+IP Address: 192.168.39.25
+Port Number: 57938
+Request Type: STORAGE_SERVER_CONNECTION
+Response Code: INVALID
+Cache Miss
+
+Storage Server :
+Time Stamp: 2024-12-04 09:48:10
+IP Address: 192.168.39.62
+Port Number: 47312
+Request Type: STORAGE_SERVER_CONNECTION
+Response Code: INVALID
+Cache Miss
+
+Client :
+Time Stamp: 2024-12-04 09:51:33
+IP Address: 192.168.39.62
+Port Number: 39078
+Request Type: LIST_PATHS
+Response Code: INVALID
+Cache Miss
+
+Client :
+Time Stamp: 2024-12-04 09:52:50
+IP Address: 192.168.39.62
+Port Number: 36438
+Request Type: COPY_DIR
+Response Code: INVALID
+Cache Miss
+
+Client :
+Time Stamp: 2024-12-04 09:52:50
+IP Address: 192.168.39.62
+Port Number: 36438
+Request Type: COPY_DIR
+Response Code: PATH_FOUND
+Cache Miss
+
+Storage Server :
+Time Stamp: 2024-12-04 09:53:09
+IP Address: 192.168.39.62
+Port Number: 43580
+Request Type: STORAGE_SERVER_CONNECTION
+Response Code: INVALID
+Cache Miss
+
+Client :
+Time Stamp: 2024-12-04 09:53:15
+IP Address: 192.168.39.228
+Port Number: 45146
+Request Type: LIST_PATHS
+Response Code: INVALID
+Cache Miss
+
+Storage Server :
+Time Stamp: 2024-12-04 09:53:17
+IP Address: 192.168.39.25
+Port Number: 39006
+Request Type: STORAGE_SERVER_CONNECTION
+Response Code: INVALID
+Cache Miss
+
+Client :
+Time Stamp: 2024-12-04 09:53:26
+IP Address: 192.168.39.228
+Port Number: 40902
+Request Type: WRITE_FILE
+Response Code: FILE_FOUND
+Cache Miss
+
+Client :
+Time Stamp: 2024-12-04 09:53:33
+IP Address: 192.168.39.228
+Port Number: 40908
+Request Type: WRITE_FILE
+Response Code: FILE_FOUND
+Cache Hit
+
+Client :
+Time Stamp: 2024-12-04 09:54:06
+IP Address: 192.168.39.62
+Port Number: 40198
+Request Type: LIST_PATHS
+Response Code: INVALID
+Cache Miss
+
+Client :
+Time Stamp: 2024-12-04 09:54:30
+IP Address: 192.168.39.62
+Port Number: 36154
+Request Type: COPY_DIR
+Response Code: PATH_FOUND
+Cache Miss
+
+Client :
+Time Stamp: 2024-12-04 09:55:25
+IP Address: 192.168.39.62
+Port Number: 53086
+Request Type: LIST_PATHS
+Response Code: INVALID
+Cache Miss
+
+Client :
+Time Stamp: 2024-12-04 09:55:55
+IP Address: 192.168.39.62
+Port Number: 53944
+Request Type: COPY_FILE
+Response Code: PATH_FOUND
+Cache Miss
+
+Client :
+Time Stamp: 2024-12-04 09:57:28
+IP Address: 192.168.39.62
+Port Number: 45210
+Request Type: LIST_PATHS
+Response Code: INVALID
+Cache Miss
+
+Client :
+Time Stamp: 2024-12-04 09:57:35
+IP Address: 192.168.39.237
+Port Number: 56698
+Request Type: LIST_PATHS
+Response Code: INVALID
+Cache Miss
+
+Client :
+Time Stamp: 2024-12-04 09:57:47
+IP Address: 192.168.39.62
+Port Number: 50534
+Request Type: COPY_FILE
+Response Code: PATH_FOUND
+Cache Miss
+
+Client :
+Time Stamp: 2024-12-04 09:58:21
+IP Address: 192.168.39.237
+Port Number: 56028
+Request Type: COPY_FILE
+Response Code: PATH_FOUND
+Cache Miss
+
+Storage Server :
+Time Stamp: 2024-12-04 10:02:05
+IP Address: 192.168.39.62
+Port Number: 36488
+Request Type: STORAGE_SERVER_CONNECTION
+Response Code: INVALID
+Cache Miss
+
+Storage Server :
+Time Stamp: 2024-12-04 10:02:10
+IP Address: 192.168.39.25
+Port Number: 42670
+Request Type: STORAGE_SERVER_CONNECTION
+Response Code: INVALID
+Cache Miss
+
+Storage Server :
+Time Stamp: 2024-12-04 10:02:25
+IP Address: 192.168.39.62
+Port Number: 57288
+Request Type: STORAGE_SERVER_CONNECTION
+Response Code: INVALID
+Cache Miss
+
+Client :
+Time Stamp: 2024-12-04 10:02:56
+IP Address: 192.168.39.228
+Port Number: 56338
+Request Type: WRITE_FILE
+Response Code: FILE_FOUND
+Cache Miss
+
+Client :
+Time Stamp: 2024-12-04 10:03:30
+IP Address: 192.168.39.228
+Port Number: 46046
+Request Type: LIST_PATHS
+Response Code: INVALID
+Cache Miss
+
+Client :
+Time Stamp: 2024-12-04 10:03:45
+IP Address: 192.168.39.228
+Port Number: 42822
+Request Type: WRITE_FILE
+Response Code: FILE_FOUND
+Cache Miss
+
+Storage Server :
+Time Stamp: 2024-12-04 10:05:33
+IP Address: 192.168.39.25
+Port Number: 39910
+Request Type: STORAGE_SERVER_CONNECTION
+Response Code: INVALID
+Cache Miss
+
+Storage Server :
+Time Stamp: 2024-12-04 10:05:39
+IP Address: 192.168.39.25
+Port Number: 39912
+Request Type: INACTIVE_STORAGE_SERVER_ACTIVATED
+Response Code: INVALID
+Cache Miss
+
+Client :
+Time Stamp: 2024-12-04 10:05:55
+IP Address: 192.168.39.228
+Port Number: 41868
+Request Type: WRITE_FILE
+Response Code: FILE_NOT_FOUND
+Cache Miss
+
+Storage Server :
+Time Stamp: 2024-12-04 10:06:13
+IP Address: 192.168.39.25
+Port Number: 48926
+Request Type: STORAGE_SERVER_CONNECTION
+Response Code: INVALID
+Cache Miss
+
+Storage Server :
+Time Stamp: 2024-12-04 10:06:19
+IP Address: 192.168.39.25
+Port Number: 48940
+Request Type: INACTIVE_STORAGE_SERVER_ACTIVATED
+Response Code: INVALID
+Cache Miss
+
+Storage Server :
+Time Stamp: 2024-12-04 10:06:27
+IP Address: 192.168.39.25
+Port Number: 45512
+Request Type: STORAGE_SERVER_CONNECTION
+Response Code: INVALID
+Cache Miss
+
+Storage Server :
+Time Stamp: 2024-12-04 10:07:04
+IP Address: 192.168.39.25
+Port Number: 55832
+Request Type: INACTIVE_STORAGE_SERVER_ACTIVATED
+Response Code: INVALID
+Cache Miss
+
+Storage Server :
+Time Stamp: 2024-12-04 10:07:19
+IP Address: 192.168.39.25
+Port Number: 48750
+Request Type: STORAGE_SERVER_CONNECTION
+Response Code: INVALID
+Cache Miss
+
+Client :
+Time Stamp: 2024-12-04 10:08:22
+IP Address: 192.168.39.237
+Port Number: 43944
+Request Type: READ_FILE
+Response Code: FILE_FOUND
+Cache Miss
+
+Client :
+Time Stamp: 2024-12-04 10:08:46
+IP Address: 192.168.39.237
+Port Number: 47440
+Request Type: READ_FILE
+Response Code: FILE_FOUND
+Cache Hit
+
+Client :
+Time Stamp: 2024-12-04 10:09:13
+IP Address: 192.168.39.228
+Port Number: 52938
+Request Type: READ_FILE
+Response Code: FILE_FOUND
+Cache Hit
+
+Client :
+Time Stamp: 2024-12-04 10:09:23
+IP Address: 192.168.39.228
+Port Number: 60400
+Request Type: READ_FILE
+Response Code: FILE_FOUND
+Cache Hit
+
+Client :
+Time Stamp: 2024-12-04 10:09:50
+IP Address: 192.168.39.228
+Port Number: 56950
+Request Type: READ_FILE
+Response Code: FILE_FOUND
+Cache Hit
+
+Client :
+Time Stamp: 2024-12-04 10:10:33
+IP Address: 192.168.39.228
+Port Number: 53868
+Request Type: LIST_PATHS
+Response Code: INVALID
+Cache Miss
+
+Client :
+Time Stamp: 2024-12-04 10:10:37
+IP Address: 192.168.39.228
+Port Number: 39182
+Request Type: READ_FILE
+Response Code: FILE_FOUND
+Cache Hit
+
+Client :
+Time Stamp: 2024-12-04 10:10:39
+IP Address: 192.168.39.237
+Port Number: 51108
+Request Type: READ_FILE
+Response Code: FILE_FOUND
+Cache Hit
+
+Client :
+Time Stamp: 2024-12-04 10:11:18
+IP Address: 192.168.39.228
+Port Number: 54052
+Request Type: READ_FILE
+Response Code: FILE_FOUND
+Cache Hit
+
+Client :
+Time Stamp: 2024-12-04 10:11:55
+IP Address: 192.168.39.228
+Port Number: 34714
+Request Type: READ_FILE
+Response Code: FILE_FOUND
+Cache Hit
+
+Client :
+Time Stamp: 2024-12-04 10:12:14
+IP Address: 192.168.39.228
+Port Number: 39620
+Request Type: WRITE_FILE
+Response Code: FILE_FOUND
+Cache Miss
+
+Client :
+Time Stamp: 2024-12-04 10:12:18
+IP Address: 192.168.39.237
+Port Number: 47250
+Request Type: READ_FILE
+Response Code: FILE_FOUND
+Cache Hit
+
+Client :
+Time Stamp: 2024-12-04 10:13:00
+IP Address: 192.168.39.228
+Port Number: 60928
+Request Type: LIST_PATHS
+Response Code: INVALID
+Cache Miss
+
+Client :
+Time Stamp: 2024-12-04 10:13:09
+IP Address: 192.168.39.228
+Port Number: 52018
+Request Type: READ_FILE
+Response Code: FILE_FOUND
+Cache Miss
+
+Client :
+Time Stamp: 2024-12-04 10:13:57
+IP Address: 192.168.39.228
+Port Number: 54720
+Request Type: WRITE_FILE
+Response Code: FILE_NOT_FOUND
+Cache Miss
+
+Storage Server :
+Time Stamp: 2024-12-04 10:14:15
+IP Address: 192.168.39.25
+Port Number: 40382
+Request Type: STORAGE_SERVER_CONNECTION
+Response Code: INVALID
+Cache Miss
+
+Storage Server :
+Time Stamp: 2024-12-04 10:14:21
+IP Address: 192.168.39.25
+Port Number: 40388
+Request Type: INACTIVE_STORAGE_SERVER_ACTIVATED
+Response Code: INVALID
+Cache Miss
+
+Storage Server :
+Time Stamp: 2024-12-04 10:14:30
+IP Address: 192.168.39.25
+Port Number: 35496
+Request Type: STORAGE_SERVER_CONNECTION
+Response Code: INVALID
+Cache Miss
+
+Storage Server :
+Time Stamp: 2024-12-04 10:14:37
+IP Address: 192.168.39.25
+Port Number: 42602
+Request Type: STORAGE_SERVER_CONNECTION
+Response Code: INVALID
+Cache Miss
+
+Storage Server :
+Time Stamp: 2024-12-04 10:14:48
+IP Address: 192.168.39.25
+Port Number: 49082
+Request Type: STORAGE_SERVER_CONNECTION
+Response Code: INVALID
+Cache Miss
+
+Storage Server :
+Time Stamp: 2024-12-04 10:14:58
+IP Address: 192.168.39.25
+Port Number: 40816
+Request Type: STORAGE_SERVER_CONNECTION
+Response Code: INVALID
+Cache Miss
+
+Storage Server :
+Time Stamp: 2024-12-04 10:15:28
+IP Address: 192.168.39.25
+Port Number: 39170
+Request Type: STORAGE_SERVER_CONNECTION
+Response Code: INVALID
+Cache Miss
+
+Client :
+Time Stamp: 2024-12-04 10:15:38
+IP Address: 192.168.39.228
+Port Number: 57960
+Request Type: WRITE_FILE
+Response Code: FILE_NOT_FOUND
+Cache Miss
+
+Storage Server :
+Time Stamp: 2024-12-04 10:15:52
+IP Address: 192.168.39.25
+Port Number: 34498
+Request Type: STORAGE_SERVER_CONNECTION
+Response Code: INVALID
+Cache Miss
+
+Storage Server :
+Time Stamp: 2024-12-04 10:15:57
+IP Address: 192.168.39.25
+Port Number: 53814
+Request Type: INACTIVE_STORAGE_SERVER_ACTIVATED
+Response Code: INVALID
+Cache Miss
+
+Storage Server :
+Time Stamp: 2024-12-04 10:16:04
+IP Address: 192.168.39.25
+Port Number: 52708
+Request Type: STORAGE_SERVER_CONNECTION
+Response Code: INVALID
+Cache Miss
+
+Storage Server :
+Time Stamp: 2024-12-04 10:16:12
+IP Address: 192.168.39.25
+Port Number: 52718
+Request Type: STORAGE_SERVER_CONNECTION
+Response Code: INVALID
+Cache Miss
+
+Client :
+Time Stamp: 2024-12-04 10:16:29
+IP Address: 192.168.39.237
+Port Number: 51564
+Request Type: READ_FILE
+Response Code: FILE_FOUND
+Cache Miss
+
+Client :
+Time Stamp: 2024-12-04 10:16:46
+IP Address: 192.168.39.237
+Port Number: 37354
+Request Type: READ_FILE
+Response Code: FILE_FOUND
+Cache Hit
+
+Client :
+Time Stamp: 2024-12-04 10:17:07
+IP Address: 192.168.39.237
+Port Number: 33266
+Request Type: READ_FILE
+Response Code: FILE_FOUND
+Cache Hit
+
+Client :
+Time Stamp: 2024-12-04 10:17:09
+IP Address: 192.168.39.228
+Port Number: 39764
+Request Type: LIST_PATHS
+Response Code: INVALID
+Cache Miss
+
+Client :
+Time Stamp: 2024-12-04 10:17:13
+IP Address: 192.168.39.237
+Port Number: 33256
+Request Type: READ_FILE
+Response Code: FILE_FOUND
+Cache Hit
+
+Client :
+Time Stamp: 2024-12-04 10:17:26
+IP Address: 192.168.39.237
+Port Number: 35204
+Request Type: READ_FILE
+Response Code: FILE_FOUND
+Cache Hit
+
+Storage Server :
+Time Stamp: 2024-12-04 10:17:47
+IP Address: 192.168.39.25
+Port Number: 53232
+Request Type: STORAGE_SERVER_CONNECTION
+Response Code: INVALID
+Cache Miss
+
+Storage Server :
+Time Stamp: 2024-12-04 10:17:52
+IP Address: 192.168.39.25
+Port Number: 53244
+Request Type: INACTIVE_STORAGE_SERVER_ACTIVATED
+Response Code: INVALID
+Cache Miss
+
+Storage Server :
+Time Stamp: 2024-12-04 10:18:01
+IP Address: 192.168.39.25
+Port Number: 34416
+Request Type: STORAGE_SERVER_CONNECTION
+Response Code: INVALID
+Cache Miss
+
+Storage Server :
+Time Stamp: 2024-12-04 10:18:09
+IP Address: 192.168.39.25
+Port Number: 57232
+Request Type: STORAGE_SERVER_CONNECTION
+Response Code: INVALID
+Cache Miss
+
+Client :
+Time Stamp: 2024-12-04 10:18:18
+IP Address: 192.168.39.237
+Port Number: 56262
+Request Type: READ_FILE
+Response Code: FILE_FOUND
+Cache Miss
+
+Client :
+Time Stamp: 2024-12-04 10:19:01
+IP Address: 192.168.39.228
+Port Number: 38968
+Request Type: READ_FILE
+Response Code: FILE_FOUND
+Cache Miss
+
+Storage Server :
+Time Stamp: 2024-12-04 10:19:30
+IP Address: 192.168.39.25
+Port Number: 53158
+Request Type: INACTIVE_STORAGE_SERVER_ACTIVATED
+Response Code: INVALID
+Cache Miss
+
+Client :
+Time Stamp: 2024-12-04 10:19:45
+IP Address: 192.168.39.237
+Port Number: 58008
+Request Type: READ_FILE
+Response Code: FILE_FOUND
+Cache Miss
+
+Client :
+Time Stamp: 2024-12-04 10:20:32
+IP Address: 192.168.39.228
+Port Number: 37052
+Request Type: WRITE_FILE
+Response Code: FILE_FOUND
+Cache Miss
+
+Client :
+Time Stamp: 2024-12-04 10:21:30
+IP Address: 192.168.39.237
+Port Number: 42046
+Request Type: READ_FILE
+Response Code: FILE_FOUND
+Cache Miss
+
+Storage Server :
+Time Stamp: 2024-12-04 10:22:19
+IP Address: 192.168.39.25
+Port Number: 40692
+Request Type: INACTIVE_STORAGE_SERVER_ACTIVATED
+Response Code: INVALID
+Cache Miss
+
+Storage Server :
+Time Stamp: 2024-12-04 10:22:27
+IP Address: 192.168.39.25
+Port Number: 34308
+Request Type: INACTIVE_STORAGE_SERVER_ACTIVATED
+Response Code: INVALID
+Cache Miss
+
+Storage Server :
+Time Stamp: 2024-12-04 10:22:39
+IP Address: 192.168.39.25
+Port Number: 42490
+Request Type: STORAGE_SERVER_CONNECTION
+Response Code: INVALID
+Cache Miss
+
+Client :
+Time Stamp: 2024-12-04 10:23:26
+IP Address: 192.168.39.228
+Port Number: 36102
+Request Type: LIST_PATHS
+Response Code: INVALID
+Cache Miss
+
+Client :
+Time Stamp: 2024-12-04 10:23:45
+IP Address: 192.168.39.228
+Port Number: 58460
+Request Type: WRITE_FILE
+Response Code: FILE_FOUND
+Cache Miss
+
+Client :
+Time Stamp: 2024-12-04 10:23:56
+IP Address: 192.168.39.228
+Port Number: 41422
+Request Type: WRITE_FILE
+Response Code: FILE_FOUND
+Cache Hit
+
+Storage Server :
+Time Stamp: 2024-12-04 10:24:11
+IP Address: 192.168.39.25
+Port Number: 49202
+Request Type: INACTIVE_STORAGE_SERVER_ACTIVATED
+Response Code: INVALID
+Cache Miss
+
+Client :
+Time Stamp: 2024-12-04 10:24:15
+IP Address: 192.168.39.228
+Port Number: 36262
+Request Type: WRITE_FILE
+Response Code: FILE_FOUND
+Cache Hit
+
+Storage Server :
+Time Stamp: 2024-12-04 10:27:05
+IP Address: 192.168.39.25
+Port Number: 45836
+Request Type: STORAGE_SERVER_CONNECTION
+Response Code: INVALID
+Cache Miss
+
+Storage Server :
+Time Stamp: 2024-12-04 10:27:09
+IP Address: 192.168.39.25
+Port Number: 45848
+Request Type: INACTIVE_STORAGE_SERVER_ACTIVATED
+Response Code: INVALID
+Cache Miss
+
+Storage Server :
+Time Stamp: 2024-12-04 10:27:17
+IP Address: 192.168.39.25
+Port Number: 55558
+Request Type: STORAGE_SERVER_CONNECTION
+Response Code: INVALID
+Cache Miss
+
+Storage Server :
+Time Stamp: 2024-12-04 10:27:31
+IP Address: 192.168.39.25
+Port Number: 46508
+Request Type: STORAGE_SERVER_CONNECTION
+Response Code: INVALID
+Cache Miss
+
+Client :
+Time Stamp: 2024-12-04 10:27:41
+IP Address: 192.168.39.228
+Port Number: 34984
+Request Type: WRITE_FILE
+Response Code: FILE_FOUND
+Cache Miss
+
+Storage Server :
+Time Stamp: 2024-12-04 10:29:36
+IP Address: 192.168.39.25
+Port Number: 41354
+Request Type: STORAGE_SERVER_CONNECTION
+Response Code: INVALID
+Cache Miss
+
+Storage Server :
+Time Stamp: 2024-12-04 10:29:41
+IP Address: 192.168.39.25
+Port Number: 41362
+Request Type: INACTIVE_STORAGE_SERVER_ACTIVATED
+Response Code: INVALID
+Cache Miss
+
+Client :
+Time Stamp: 2024-12-04 10:31:27
+IP Address: 192.168.39.237
+Port Number: 41646
+Request Type: LIST_PATHS
+Response Code: INVALID
+Cache Miss
+
+Client :
+Time Stamp: 2024-12-04 10:31:38
+IP Address: 192.168.39.237
+Port Number: 49266
+Request Type: WRITE_FILE
+Response Code: FILE_FOUND
+Cache Miss
+
+Client :
+Time Stamp: 2024-12-04 10:32:12
+IP Address: 192.168.39.228
+Port Number: 39582
+Request Type: WRITE_FILE
+Response Code: FILE_NOT_FOUND
+Cache Miss
+
+Client :
+Time Stamp: 2024-12-04 10:32:16
+IP Address: 192.168.39.228
+Port Number: 39592
+Request Type: LIST_PATHS
+Response Code: INVALID
+Cache Miss
+
+Client :
+Time Stamp: 2024-12-04 10:32:23
+IP Address: 192.168.39.228
+Port Number: 50848
+Request Type: WRITE_FILE
+Response Code: FILE_FOUND
+Cache Hit
+
+Client :
+Time Stamp: 2024-12-04 10:32:34
+IP Address: 192.168.39.228
+Port Number: 46600
+Request Type: WRITE_FILE
+Response Code: FILE_FOUND
+Cache Hit
+
+Client :
+Time Stamp: 2024-12-04 10:33:02
+IP Address: 192.168.39.228
+Port Number: 45328
+Request Type: WRITE_FILE
+Response Code: FILE_FOUND
+Cache Hit
+
+Client :
+Time Stamp: 2024-12-04 10:33:03
+IP Address: 192.168.39.228
+Port Number: 45342
+Request Type: WRITE_FILE
+Response Code: FILE_FOUND
+Cache Hit
+
+Storage Server :
+Time Stamp: 2024-12-04 10:33:20
+IP Address: 192.168.39.25
+Port Number: 38874
+Request Type: STORAGE_SERVER_CONNECTION
+Response Code: INVALID
+Cache Miss
+
+Storage Server :
+Time Stamp: 2024-12-04 10:33:32
+IP Address: 192.168.39.25
+Port Number: 52168
+Request Type: STORAGE_SERVER_CONNECTION
+Response Code: INVALID
+Cache Miss
+
+Client :
+Time Stamp: 2024-12-04 10:33:40
+IP Address: 192.168.39.228
+Port Number: 55480
+Request Type: WRITE_FILE
+Response Code: FILE_FOUND
+Cache Miss
+
+Client :
+Time Stamp: 2024-12-04 10:33:42
+IP Address: 192.168.39.228
+Port Number: 55494
+Request Type: WRITE_FILE
+Response Code: FILE_FOUND
+Cache Hit
+
+Client :
+Time Stamp: 2024-12-04 10:34:04
+IP Address: 192.168.39.228
+Port Number: 57786
+Request Type: WRITE_FILE
+Response Code: FILE_FOUND
+Cache Hit
+
+Client :
+Time Stamp: 2024-12-04 10:34:14
+IP Address: 192.168.39.228
+Port Number: 45440
+Request Type: WRITE_FILE
+Response Code: FILE_FOUND
+Cache Hit
+
+Client :
+Time Stamp: 2024-12-04 10:34:40
+IP Address: 192.168.39.228
+Port Number: 50710
+Request Type: WRITE_FILE
+Response Code: FILE_FOUND
+Cache Hit
+
+Client :
+Time Stamp: 2024-12-04 10:34:53
+IP Address: 192.168.39.228
+Port Number: 36730
+Request Type: WRITE_FILE
+Response Code: FILE_FOUND
+Cache Hit
+
+Client :
+Time Stamp: 2024-12-04 10:35:53
+IP Address: 192.168.39.228
+Port Number: 59382
+Request Type: READ_FILE
+Response Code: FILE_FOUND
+Cache Miss
+
+Storage Server :
+Time Stamp: 2024-12-04 10:36:15
+IP Address: 192.168.39.25
+Port Number: 43348
+Request Type: STORAGE_SERVER_CONNECTION
+Response Code: INVALID
+Cache Miss
+
+Storage Server :
+Time Stamp: 2024-12-04 10:36:24
+IP Address: 192.168.39.25
+Port Number: 55208
+Request Type: INACTIVE_STORAGE_SERVER_ACTIVATED
+Response Code: INVALID
+Cache Miss
+
+Storage Server :
+Time Stamp: 2024-12-04 10:37:05
+IP Address: 192.168.39.25
+Port Number: 45676
+Request Type: INACTIVE_STORAGE_SERVER_ACTIVATED
+Response Code: INVALID
+Cache Miss
+
+Client :
+Time Stamp: 2024-12-04 10:37:16
+IP Address: 192.168.39.228
+Port Number: 60470
+Request Type: LIST_PATHS
+Response Code: INVALID
+Cache Miss
+
